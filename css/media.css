@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+#media{
+	margin-left: 5%;
+	margin-right: 5%;
+	width: 90%;
+	height: 100%; 
+	text-align: center;
+	background-color: black;
+	margin-top: 1%;
+	color: white;
+}
